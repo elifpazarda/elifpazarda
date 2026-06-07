@@ -1,8 +1,9 @@
-<h1 align="center">Hi, I'm Elif 👋</h1>
-<h3 align="center">Software QA Engineer · ISTQB® Certified Tester</h3>
+<h1 align="center">Hi, I'm Elif <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" /></h1>
 
 <p align="center">
-  <i>Finding bugs before your users do.</i>
+  <a href="https://github.com/elifpazarda">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=36BCF7&center=true&vCenter=true&width=450&lines=Software+QA+Engineer;ISTQB%C2%AE+Certified+Tester;UI+%E2%80%A2+Service+%E2%80%A2+API+Testing;Finding+bugs+before+your+users+do." alt="Typing animation" />
+  </a>
 </p>
 
 <p align="center">
@@ -18,7 +19,7 @@
 
 ### About Me
 
-- 🔍 QA Engineer **@ ID3** — UI, service & regression testing for enterprise applications, including projects for Turkish Airlines ✈️
+- 🔍 QA Engineer **@ ID3** — UI, service & regression testing for enterprise applications, including projects for Turkish Airlines
 - 📜 **ISTQB Certified Tester** with hands-on experience in test automation
 - 🤖 Exploring **AI-assisted testing** to make test execution faster and smarter
 - 🎓 Computer Engineering @ Bursa Technical University
@@ -42,10 +43,8 @@
 ![Allure](https://img.shields.io/badge/Allure%20Report-FF6A00?style=flat)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-### Featured Projects
+### Certifications & Focus
 
-| Project | Description | Stack |
-|---|---|---|
-| [Insider QA Automation](https://github.com/elifpazarda/elifpazarbasi.qa) | UI test automation with Page Object Model & Allure reporting | Java, Selenium, TestNG |
-| [Nex Test Automation](https://github.com/elifpazarda/nextest-automation) | REST API regression suite with layered architecture & custom logging | REST Assured, JUnit, AssertJ |
-| [Selenium Test](https://github.com/elifpazarda/seleniumTest) | UI test scenarios managed with TestNG | Java, Selenium |
+- 📜 **ISTQB® Certified Tester** — Foundation Level
+- 🎯 Currently deepening: API test automation & AI-assisted testing workflows
+- 📌 My featured QA projects are pinned below ⬇️
